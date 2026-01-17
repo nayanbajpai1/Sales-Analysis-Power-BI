@@ -38,4 +38,4 @@ This project is a **Power BI sales analysis report** designed to provide insight
 - Comparison and trend analysis for cities and regions  
 - Top N insights for customers, products, and regions  
 
-## Thank You
+## Thank You For Your Time
